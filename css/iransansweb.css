@@ -1,0 +1,56 @@
+/*!
+ * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@font-face {
+  font-family: 'IransasnWeb';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../webfonts/IRANSansWeb_Bold.eot");
+  src: url("../webfonts/IRANSansWeb_Bold.eot?#iefix") format("embedded-opentype"),
+   url("../webfonts/IRANSansWeb_Bold.woff2") format("woff2"),
+   url("../webfonts/IRANSansWeb_Bold.woff") format("woff"),
+   url("../webfonts/IRANSansWeb_Bold.ttf") format("truetype"),
+   url("../webfonts/iransansdnbold.svg") format("svg"); }
+
+   @font-face {
+    font-family: 'IransasnWeb';
+    font-style: normal;
+    font-weight: 500;
+    font-display: block;
+    src: url("../webfonts/IRANSansWeb_Medium.eot");
+    src: url("../webfonts/IRANSansWeb_Medium.eot") format("embedded-opentype"),
+     url("../webfonts/IRANSansWeb_Medium.woff2") format("woff2"),
+     url("../webfonts/IRANSansWeb_Medium.woff") format("woff"),
+     url("../webfonts/IRANSansWeb_Medium.ttf") format("truetype");
+     }
+
+     @font-face {
+      font-family: 'IransasnWeb';
+      font-style: normal;
+      font-weight: 300;
+      font-display: block;
+      src: url("../webfonts/IRANSansWeb_Light.eot");
+      src: url("../webfonts/IRANSansWeb_Light.eot") format("embedded-opentype"),
+       url("../webfonts/IRANSansWeb_Light.woff2") format("woff2"),
+       url("../webfonts/IRANSansWeb_Light.woff") format("woff"),
+       url("../webfonts/IRANSansWeb_Light.ttf") format("truetype"),
+       url("../webfonts/iransansdnlight.svg") format("svg"); }
+
+       @font-face {
+        font-family: 'IransasnWeb';
+        font-style: normal;
+        font-weight: 100;
+        font-display: block;
+        src: url("../webfonts/IRANSansWeb.eot");
+        src: url("../webfonts/IRANSansWeb.eot") format("embedded-opentype"),
+         url("../webfonts/IRANSansWeb.woff2") format("woff2"),
+         url("../webfonts/IRANSansWeb.woff") format("woff"),
+         url("../webfonts/IRANSansWeb.ttf") format("truetype"),
+         url("../webfonts/iransansdn.svg") format("svg"); }
+
+body {
+  font-family: 'IransasnWeb';
+  /* direction: rtl; */
+}
