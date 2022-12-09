@@ -239,8 +239,10 @@
     font-family: Vazirmatn RD UI FD; 
  
 }
-.contacttome > p {
+
+.contacttomep {
     font-family: Vazirmatn RD UI FD; 
+    text-align: justify;
 }
 .footer .btn.btn-link {
     display: block;
